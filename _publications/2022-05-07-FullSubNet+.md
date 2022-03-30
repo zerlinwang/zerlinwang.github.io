@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-01-01
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: ''
-citation: 'Jun Chen, <b>Zilin Wang</b>, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen. &quot;Location-Aware Feature Selection Text Detection Network&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2022.'
+citation: 'Jun Chen, <b>Zilin Wang<\b>, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen. &quot;Location-Aware Feature Selection Text Detection Network&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2022.'
 ---
 Abstract
 ===
