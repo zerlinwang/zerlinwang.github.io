@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Shenzhen, China"
-title                    : "Zilin Wang / Computer Science & Artificial Intelligence"
+title                    : "Zilin Wang / Master Student"
 title_separator          : "-"
 name                     : &name "Zilin Wang"
 description              : &description "personal homepage"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "im.wangzilin@gmail.com"
+  email            : "wangzl21@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/zerlinwang"
   google_plus      :
   keybase          :
   instagram        :
