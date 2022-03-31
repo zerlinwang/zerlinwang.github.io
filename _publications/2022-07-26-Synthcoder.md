@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-Synthcoder
 excerpt: ''
 date: 2022-07-26
-venue: 'under review in INTERSPEECH 2022'
+venue: 'under review in INTERSPEECH'
 paperurl: ''
-ciataion: '<b>Zilin Wang</b>, Peng Liu, Jun Chen, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. &quot;Synthetic Data is All You Need? Towards Universal Neural Vocoding&quot;. <i>Under review in INTERSPEECH 2022</i>.'
+citation: '<b>Zilin Wang</b>, Peng Liu, Jun Chen, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. &quot;Synthetic Data is All You Need? Towards Universal Neural Vocoding&quot;. <i>Under review in INTERSPEECH 2022</i>.'
 
 ---
 Abstract
