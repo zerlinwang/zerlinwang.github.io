@@ -6,7 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+* Internship [SenseTime Inc.](https://www.sensetime.com/en), Decision Intelligence
+    - May, 2022 - Now
+    - Shenzhen, China
+    - Research about Reinforcement Learning
+        - [OpenDiLab](http://opendilab.org/#/): An open source decision intelligence engine that generalizes and accelerates various environments, algorithms and computation pipelines.
+        - Multi-Agent System
 * Internship [Tencent Inc.](https://www.tencent.com/en-us/about.html), [AI Lab](https://ai.tencent.com/ailab/en/index)
     - November, 2021 - March, 2022
     - Shenzhen, China
