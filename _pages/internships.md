@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Internships"
+title: "Research Internships"
 permalink: /internships/
 author_profile: true
 redirect_from:
