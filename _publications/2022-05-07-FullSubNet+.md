@@ -5,7 +5,7 @@ permalink: /publication/2022-FullSubNet+
 excerpt: ''
 date: 2022-01-01
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2203.12188'
 citation: 'Jun Chen, <b>Zilin Wang</b>, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen. &quot;Location-Aware Feature Selection Text Detection Network&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2022.'
 ---
 Abstract
@@ -25,5 +25,3 @@ a more efficient full-band module called full-band extractor. The
 experimental results in DNS Challenge dataset show the superior
 performance of our FullSubNet+, which reaches the state-of-theart (SOTA) performance and outperforms other existing speech
 enhancement approaches.
-
-[Download paper here](https://arxiv.org/abs/2203.12188)

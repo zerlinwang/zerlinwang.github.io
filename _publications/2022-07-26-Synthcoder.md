@@ -1,14 +1,15 @@
 ---
-title: "Synthetic Data is All You Need? Towards Universal Neural Vocoding"
+title: "A Synthetic Corpus Generation Method for Neural Vocoder Training"
 collection: publications
-permalink: /publication/2022-Synthcoder
+permalink: /publication/2023-Synthcoder
 excerpt: ''
-date: 2022-07-26
-venue: 'under review in INTERSPEECH'
-paperurl: ''
-citation: '<b>Zilin Wang</b>, Peng Liu, Jun Chen, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. &quot;Synthetic Data is All You Need? Towards Universal Neural Vocoding&quot;. <i>Under review in INTERSPEECH 2022</i>.'
+date: 2023-04-26
+venue: 'ICASSP 2023‑2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+'
+paperurl: 'https://ieeexplore.ieee.org/document/10094786/'
+citation: '<b>Zilin Wang</b>, Peng Liu, Jun Chen, Sipan Li, Jinfeng Bai, Gang He, Zhiyong Wu, Helen Meng. &quot;A Synthetic Corpus Generation Method for Neural Vocoder Training;. <i>ICASSP 2023‑2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</i>.'
 
 ---
 Abstract
 ===
-A very intuitive idea to construct a universal vocoder is covering all possible human voices in a training database. Unfortunately, it is impossible in practice owing to the massive human and material resources involved and the copyright issues. In this work, we propose a novel and effective paradigm for training the universal vocoder with synthetic data alone, which is easily available in bulk. Our goal is to make the synthetic data distribution approximate the real vocal data distribution by enumerating synthetic audios with possible human voice forms. By this means, the universal vocoder can cope with many human voice synthesis scenarios including speech, singing voice, etc. To evaluate the universality of the vocoder trained with synthetic data, which is referred to as synthcoder in this paper, we performed experiments on both speech and singing utterances in subjective and objective metrics. The experimental results show that, as a method that does not require human audio corpus for training, synthcoder can achieve competitive results, which demonstrates the huge potential of our proposed method.
+Nowadays, neural vocoders are preferred for their ability to synthesize high-fidelity audio. However, training a neural vocoder requires a massive corpus of high-quality real audio, and the audio recording process is often labor-intensive. In this work, we propose a synthetic corpus generation method for neural vocoder training, which can easily generate synthetic audio with an unlimited number at nearly no cost. We explicitly model the prior characteristics of audio from multiple target domains simultaneously (e.g., speeches, singing voices, and instrumental pieces) to equip the generated audio data with these characteristics. And we show that our synthetic corpus allows the neural vocoder to achieve competitive results without any real audio in the training process. To validate the effectiveness of our proposed method, we performed empirical experiments on both speech and music utterances in subjective and objective metrics. The experimental results show that the neural vocoder trained with the synthetic corpus produced by our method can generalize to multiple target scenarios and has excellent singing voice (MOS: 4.20) and instrumental piece (MOS: 4.00) synthesis results.
