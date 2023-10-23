@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Shenzhen, China"
-title                    : "Zilin Wang / Master Student"
+title                    : "Zilin Wang"
 title_separator          : "-"
 name                     : &name "Zilin Wang"
 description              : &description "personal homepage"

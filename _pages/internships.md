@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Internship at [Shanghai AI Lab](https://www.shlab.org.cn/), OpenDILab
+* Internship at [Shanghai AI Lab](https://www.shlab.org.cn/), [OpenDILab](https://opendilab.net/home)
     - May, 2022 - Jan, 2023
     - Shanghai, China
     - Research about Reinforcement Learning
-        - [OpenDiLab](https://opendilab.net/home): An open source decision intelligence engine that generalizes and accelerates various environments, algorithms and computation pipelines.
+        - [DI-engine](https://github.com/opendilab/DI-engine): An open source decision intelligence engine that generalizes and accelerates various environments, algorithms and computation pipelines.
         - Multi-Agent Reinforcement Learning
 * Internship at [Tencent Inc.](https://www.tencent.com/en-us/about.html), [AI Lab](https://ai.tencent.com/ailab/en/index)
     - Nov, 2021 - Apr, 2022
