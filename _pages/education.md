@@ -15,7 +15,7 @@ redirect_from:
 
 * Dalian University of Technology
     - Bachelor of Computer Science and Technology
-    - Sept, 2017 - June, 2021 (expected)
+    - Sept, 2017 - June, 2021
     - GPA: 3.09/5.00
     - Ranking: **1/78**
     - Research Interest: Computer Vision
