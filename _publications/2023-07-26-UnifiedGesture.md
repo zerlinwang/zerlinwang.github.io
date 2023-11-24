@@ -7,7 +7,7 @@ date: 2023-07-26
 venue: '31st ACM International Conference on Multimedia (ACM MM), 2023
 '
 paperurl: 'https://arxiv.org/pdf/2309.07051.pdf'
-citation: 'Sicheng Yang*, <b>Zilin Wang*</b>, Zhiyong Wu, Minglei Li, Zhensong Zhang, Qiaochu Huang, Lei Hao, Songcen Xu, Xaofei Wu, Changpeng Yang, Zonghong Dai. &quot;UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons;. <i>31st ACM International Conference on Multimedia (ACM MM), 2023</i>.'
+citation: 'Sicheng Yang*, <b>Zilin Wang*</b> (equal contribution), Zhiyong Wu, Minglei Li, Zhensong Zhang, Qiaochu Huang, Lei Hao, Songcen Xu, Xaofei Wu, Changpeng Yang, Zonghong Dai. &quot;UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons;. <i>31st ACM International Conference on Multimedia (ACM MM), 2023</i>.'
 
 ---
 Abstract
