@@ -15,6 +15,6 @@ Click [here](https://zerlinwang.github.io/files/zilinwang_resume.pdf) to view my
 My research goal is to construct general decision-making system capable of interacting with complex environments.
 Currently, I focus on Deep Reinforcement Learning (RL) as a solution method.
 My explorations in RL span a diverse range of sub-areas, including algorithmic advancements in multi-agent cooperation, visual RL, and learning from sub-optimal demonstrations (LfS).
-Moreover, I am deeply involved in applying RL techniques to various domains, such as multimodal content generation, robotic learning, and autonomous driving systems.
+Moreover, I am deeply involved in applying RL techniques to various domains, such as multimodal content generation, robot learning, and autonomous driving.
 
 In addition to my core research in reinforcement learning, I have also contributed to the fields of computer vision and speech processing, with several publications to my name. My journey in these intersecting domains of computer science continues to fuel my passion for research and innovation.
