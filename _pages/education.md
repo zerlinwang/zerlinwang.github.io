@@ -10,13 +10,12 @@ redirect_from:
     - Master of Computer Engineering
     - Sept, 2021 - June, 2024 (expected)
     - GPA: 3.71/4.00
-    - Research Interest: Sequential Modeling and Decision Intelligence
-    - Courses: Numerical Method, Big Data Analytic, Deep Learning, Advanced Numerical Analysis, Speech processing
+    - Research Interest: Deep Reinforcement Learning and its applications
 
 * Dalian University of Technology
-    - Bachelor of Computer Science and Technology
+    - Bachelor of Digital Media and Technology
     - Sept, 2017 - June, 2021
-    - GPA: 4.09/5.00
-    - Ranking: **1/78**
+    - GPA: 4.08/5.00
+    - Ranking: **1/77**
     - Research Interest: Computer Vision
-    - Courses: Machine Learning, Software Engineering, Digital Media and Technology, Computer Vision, Calculus, Probability Theory and Mathematical Statistics, Linear Algebra and Analytic Geometry, Operating System
+    - Courses: Machine Learning (A+), Computer Vision (A+), Computer Graphics (A+), Speech Processing (A+), Software Engineering (A+), Computer network (A+), Graduation Defense (A+)
