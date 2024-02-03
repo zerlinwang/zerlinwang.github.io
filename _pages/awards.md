@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+* Excellent Teaching Assistant, Tsinghua University, 2022~2023
 * Outstanding Undergraduate in Dalian, 2021.
 * Scholarship for academic excellence, Dalian University of Technology, 2018, 2019 and 2020
 * National Scholarship for Undergraduate, 2019.

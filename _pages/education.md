@@ -9,7 +9,6 @@ redirect_from:
 * Tsinghua University
     - Master of Computer Engineering
     - Sept, 2021 - June, 2024 (expected)
-    - GPA: 3.71/4.00
     - Research Interest: Deep Reinforcement Learning and its applications
 
 * Dalian University of Technology
