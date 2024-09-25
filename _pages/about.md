@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: zilin.png
+  address: >
+    <p align="center"><a href="mailto:zilin.wang@lmh.ox.ac.uk">zilin.wang@lmh.ox.ac.uk</a></p>
+    <p align="center">Lady Margaret Hall</p>
+    <p align="center">Oxford, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am a Computer Science Ph.D. student at the University of Oxford. I am fortunate to be advised by [Prof. Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/) and a member of the [Whiteson Research Lab (WhiRL)](https://whirl.cs.ox.ac.uk/). I previously received a Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/). Before that, I did my undergraduate at [Dalian University of Technology](https://en.dlut.edu.cn/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on developing general decision-making agents capable of interacting with complex and dynamic environments. Currently, I am exploring `Deep Reinforcement Learning (Deep RL)` as a core solution methodology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my sparse time, I enjoy running, hiking, and fitness, as well as anime and video games. Additionally, I am a ploy-glot, fluent in Mandarin, English, and Japanese.
+
+<p align="center"><a href="https://zerlinwang.github.io/assets/pdf/cv_zilin_wang.pdf">CV</a>&emsp;/
+&emsp;<a href="https://scholar.google.com/citations?user=rVky_6EAAAAJ&hl=en">Google Scholar</a>&emsp;/
+&emsp;<a href="https://github.com/zerlinwang">Github</a>&emsp;/
+<!-- &emsp;<a href="https://www.linkedin.com/in/yaru-niu-2b847b169/">Linkedin</a> -->
+<!-- &emsp;<a href="https://twitter.com/yaru_niu">Twitter</a>&emsp;/ -->
+</p>
