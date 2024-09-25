@@ -28,6 +28,7 @@ I am open to collaborations. Please feel free to drop me an email if you find my
 <p align="center"><a href="https://zerlinwang.github.io/assets/pdf/cv_zilin_wang.pdf">CV</a>&emsp;/
 &emsp;<a href="https://scholar.google.com/citations?user=rVky_6EAAAAJ&hl=en">Google Scholar</a>&emsp;/
 &emsp;<a href="https://github.com/zerlinwang">Github</a>&emsp;/
+&emsp;<a href="https://x.com/nirhso">X</a>&emsp;/
 &emsp;<a href="https://www.linkedin.com/in/zilin-wang-67929228a/">Linkedin</a>
 <!-- &emsp;<a href="https://twitter.com/yaru_niu">Twitter</a>&emsp;/ -->
 </p>
