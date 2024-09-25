@@ -9,7 +9,7 @@ profile:
   align: right
   image: zilin.png
   more_info: >
-    <p align="center">Lady Margaret Hall, Oxford, UK</p>
+    <p>Lady Margaret Hall, Oxford, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
