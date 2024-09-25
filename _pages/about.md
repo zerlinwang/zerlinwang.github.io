@@ -1,19 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <p style="font-family:Pacifico">Having dreams is what makes life tolarable.</p>
+subtitle: <p style="font-family:'Pacifico', cursive;">Having dreams is what makes life tolerable.</p>
+
 
 profile:
   align: right
   image: zilin.png
+  more_info: >
+    <p align="center">Lady Margaret Hall, Oxford, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I am a Computer Science Ph.D. student at the [University of Oxford](https://www.ox.ac.uk/). I am fortunated to be supervised by [Prof. Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/) and a member of the [Whiteson Research Lab (WhiRL)](https://whirl.cs.ox.ac.uk/). I previously received a Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/). Before that, I did my undergraduate at [Dalian University of Technology](https://en.dlut.edu.cn/). :blush:
+Hi there! I am a Computer Science Ph.D. student at the [University of Oxford](https://www.ox.ac.uk/). I am fortunated to be supervised by [Prof. Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/) and a member of the [Whiteson Research Lab (WhiRL)](https://whirl.cs.ox.ac.uk/). I previously received a Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Prof. Zhiyong Wu](https://thuhcsi.github.io/zywu.html). Before that, I did my undergraduate at [Dalian University of Technology](https://en.dlut.edu.cn/). :blush:
 
 My research focuses on developing general decision-making agents capable of interacting with complex and dynamic environments. Currently, I am exploring `Deep Reinforcement Learning (Deep RL)` as a core solution methodology. :sparkles:
 
