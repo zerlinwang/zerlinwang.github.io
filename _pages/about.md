@@ -7,7 +7,7 @@ subtitle: <p style="font-family:'Pacifico', cursive;">Having dreams is what make
 
 profile:
   align: right
-  image: zilin.png
+  image: zilin.jpg
   more_info: >
     <p>Lady Margaret Hall, Oxford, UK</p>
 
