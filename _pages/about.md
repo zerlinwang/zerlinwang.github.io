@@ -23,7 +23,6 @@ My research focuses on developing general decision-making agents capable of inte
 In my sparse time, I enjoy running, hiking, badminton, and fitness, as well as anime and video games. Additionally, I am a ploy-glot, fluent in Mandarin, English, and Japanese.
 I love learning new languages because I believe a new language means a fresh perspective on this wonderful world! :dizzy:
 
-I am open to collaborations. Please feel free to drop me an email if you find my work interesting! :smiley:
 
 <p align="center"><a href="https://zerlinwang.github.io/assets/pdf/cv_zilin_wang.pdf">CV</a>&emsp;/
 &emsp;<a href="https://scholar.google.com/citations?user=rVky_6EAAAAJ&hl=en">Google Scholar</a>&emsp;/
