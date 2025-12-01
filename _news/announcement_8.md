@@ -4,4 +4,4 @@ date: 2024-10-05
 inline: true
 ---
 
-Starting my DPhil at Oxford! I'm so excited about my journey here!
+I am going to start my DPhil at Oxford! I'm quite excited about this journey!
