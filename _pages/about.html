@@ -49,15 +49,30 @@ title: Zilin Wang
       .intro {
         display: flex;
         gap: 32px;
-        align-items: flex-start;
+        align-items: stretch;
+        margin-bottom: 16px;
       }
       .intro-text {
-        flex: 5;
+        flex: 1;
+        min-width: 0;
+      }
+      .intro-text p {
+        margin: 0 0 16px;
+      }
+      .intro-text p:last-child {
+        margin-bottom: 0;
       }
       .intro-photo {
-        flex: 3;
+        position: relative;
+        flex: 0 0 270px;
+      }
+      .intro-photo img {
+        position: absolute;
+        top: 0;
+        left: 0;
         width: 100%;
-        min-width: 0;
+        height: 100%;
+        object-fit: cover;
         border-radius: 6px;
       }
       blockquote {
@@ -68,14 +83,12 @@ title: Zilin Wang
         font-weight: 600;
       }
       .email {
-        margin: 24px 0 8px;
-        text-align: center;
+        margin: 0 0 4px;
         font-family: SFMono-Regular, Menlo, Consolas, monospace;
         font-size: 14px;
       }
       .links {
         margin: 0;
-        text-align: center;
         font-weight: 600;
       }
       .news {
@@ -115,6 +128,7 @@ title: Zilin Wang
       .paper-info {
         flex: 1;
         min-width: 0;
+        margin-top: -4px;
       }
       .paper-info p {
         margin: 0 0 6px;
@@ -138,8 +152,13 @@ title: Zilin Wang
           flex-direction: column;
         }
         .intro-photo {
-          max-width: 260px;
-          margin: 0 auto;
+          flex: none;
+          width: 260px;
+          aspect-ratio: 904 / 1029;
+          align-self: center;
+        }
+        .paper-info {
+          margin-top: 0;
         }
         .paper-figure {
           flex: none;
@@ -168,10 +187,10 @@ title: Zilin Wang
               <a href="https://thuhcsi.github.io/zywu.html">Prof. Zhiyong Wu</a>. Before that, I did my undergraduate studies
               at <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>.
             </p>
+            <p>My research focuses on efficient deep reinforcement learning (RL) and its application in autonomous driving.</p>
           </div>
-          <img class="intro-photo" src="/assets/img/profile.jpg" alt="Photo of Zilin Wang">
+          <div class="intro-photo"><img src="/assets/img/profile.jpg" alt="Photo of Zilin Wang"></div>
         </div>
-        <p>My research focuses on efficient deep reinforcement learning (RL) and its application in autonomous driving.</p>
         <p>
           In my spare time, I enjoy running, hiking, badminton, fitness, anime, and video games. Additionally, I am a
           polyglot; apart from my mother tongue Mandarin, I also speak English and Japanese. I love learning new languages

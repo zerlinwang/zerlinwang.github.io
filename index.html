@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Zilin Wang 王子林</title>
+    <meta name="description" content="Zilin Wang, Computer Science DPhil student at the University of Oxford. Efficient deep reinforcement learning and autonomous driving.">
+    <link rel="icon" href="/assets/img/oxford-logo.png">
+    <style>
+      body {
+        margin: 0;
+        background: #fff;
+        color: #37352f;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "PingFang SC", "Noto Sans CJK SC", sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+      }
+      main {
+        max-width: 820px;
+        margin: 0 auto;
+        padding: 56px 24px 80px;
+      }
+      a {
+        color: inherit;
+        text-decoration: underline;
+        text-decoration-color: #b8b6b0;
+        text-underline-offset: 3px;
+      }
+      a:hover {
+        color: #0b6e99;
+        text-decoration-color: #0b6e99;
+      }
+      h1 {
+        margin: 0 0 24px;
+        font-size: 38px;
+        line-height: 1.2;
+      }
+      h2 {
+        margin: 48px 0 16px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #e3e2de;
+        font-size: 24px;
+      }
+      .intro {
+        display: flex;
+        gap: 32px;
+        align-items: flex-start;
+      }
+      .intro-text {
+        flex: 5;
+      }
+      .intro-photo {
+        flex: 3;
+        width: 100%;
+        min-width: 0;
+        border-radius: 6px;
+      }
+      blockquote {
+        margin: 0 0 16px;
+        padding-left: 14px;
+        border-left: 3px solid #37352f;
+        font-style: italic;
+        font-weight: 600;
+      }
+      .email {
+        margin: 24px 0 8px;
+        text-align: center;
+        font-family: SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 14px;
+      }
+      .links {
+        margin: 0;
+        text-align: center;
+        font-weight: 600;
+      }
+      .news {
+        margin: 0;
+        padding-left: 22px;
+      }
+      .news li {
+        margin-bottom: 6px;
+      }
+      .paper {
+        display: flex;
+        gap: 24px;
+        align-items: flex-start;
+        margin-bottom: 32px;
+      }
+      .paper-figure {
+        position: relative;
+        flex: 0 0 260px;
+      }
+      .paper-figure img {
+        display: block;
+        width: 100%;
+        border: 1px solid #e3e2de;
+        border-radius: 6px;
+      }
+      .venue {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 2px 8px;
+        border-radius: 6px 0 6px 0;
+        background: #002147;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 600;
+      }
+      .paper-info {
+        flex: 1;
+        min-width: 0;
+      }
+      .paper-info p {
+        margin: 0 0 6px;
+      }
+      .paper-title {
+        font-weight: 600;
+      }
+      .paper-authors,
+      .paper-venue {
+        font-size: 14px;
+      }
+      .paper-venue {
+        color: #6b6a66;
+      }
+      .paper-tldr {
+        font-size: 14px;
+      }
+      @media (max-width: 640px) {
+        .intro,
+        .paper {
+          flex-direction: column;
+        }
+        .intro-photo {
+          max-width: 260px;
+          margin: 0 auto;
+        }
+        .paper-figure {
+          flex: none;
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <!-- About -->
+      <section id="about">
+        <h1>Zilin Wang 王子林</h1>
+        <div class="intro">
+          <div class="intro-text">
+            <blockquote>Having dreams is what makes life tolerable.</blockquote>
+            <p>
+              Hi there! I am Zilin, a Computer Science DPhil student at the
+              <a href="https://www.ox.ac.uk/">University of Oxford</a> in the
+              <b>British Open-ended Learning and Discovery (BOLD)</b> (previously
+              <a href="https://whirl.cs.ox.ac.uk/">WhiRL</a> and <a href="https://foersterlab.com/">FLAIR</a> labs). I am
+              fortunate to be co-supervised by Professor
+              <a href="https://www.cs.ox.ac.uk/people/shimon.whiteson/">Shimon Whiteson</a> and Professor
+              <a href="https://www.jakobfoerster.com/">Jakob Foerster</a>. I previously received a Master’s degree from
+              <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, supervised by
+              <a href="https://thuhcsi.github.io/zywu.html">Prof. Zhiyong Wu</a>. Before that, I did my undergraduate studies
+              at <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>.
+            </p>
+          </div>
+          <img class="intro-photo" src="/assets/img/profile.jpg" alt="Photo of Zilin Wang">
+        </div>
+        <p>My research focuses on efficient deep reinforcement learning (RL) and its application in autonomous driving.</p>
+        <p>
+          In my spare time, I enjoy running, hiking, badminton, fitness, anime, and video games. Additionally, I am a
+          polyglot; apart from my mother tongue Mandarin, I also speak English and Japanese. I love learning new languages
+          because I believe they're like gates to new worlds!
+        </p>
+        <p class="email">Email: zilin.wang@lmh.ox.ac.uk</p>
+        <p class="links">
+          <a href="https://www.dropbox.com/scl/fi/vge0shdolcv8fwqdytrie/zilinwang_cv.pdf?rlkey=r7pfpxfmaj685o5dn2vumznvm&amp;st=nrmsahkv&amp;dl=0">CV</a>
+          &nbsp;/&nbsp;
+          <a href="https://scholar.google.com/citations?user=rVky_6EAAAAJ&amp;hl=en">Google Scholar</a>
+          &nbsp;/&nbsp;
+          <a href="https://github.com/zerlinwang">Github</a>
+          &nbsp;/&nbsp;
+          <a href="https://x.com/zilinwang4ai">X</a>
+          &nbsp;/&nbsp;
+          <a href="https://www.linkedin.com/in/zilin-wang-67929228a/">Linkedin</a>
+        </p>
+      </section>
+
+      <!-- News: add a new <li> at the top of the list -->
+      <section id="news">
+        <h2>News</h2>
+        <ul class="news">
+          <li>
+            <b>Sep 24, 2026</b> - Our paper
+            <a href="https://arxiv.org/abs/2602.15891">Learning to Drive in New Cities Without Human Demonstrations</a> gets
+            accepted by NeurIPS 2026.
+          </li>
+          <li>
+            <b>Sep 24, 2026</b> - Our paper
+            <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=rVky_6EAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rVky_6EAAAAJ:9ZlFYXVOiuMC">Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors</a>
+            gets accepted by NeurIPS 2026 Position Paper Track.
+          </li>
+          <li><b>May 18, 2026</b> - Started my internship at <a href="https://motional.com/">Motional</a>.</li>
+          <li>
+            <b>April 30, 2026</b> - Our paper
+            <a href="https://disco-gen.github.io/">Procedural Generation of Algorithm Discovery Tasks in Machine Learning</a>
+            is accepted by ICML 2026.
+          </li>
+          <li>
+            <b>April 01, 2026</b> - Visited <a href="https://waymo.com/">Waymo</a> and gave a talk about
+            <a href="https://nomaddrive.github.io/">NOMAD</a>.
+          </li>
+          <li>
+            <b>Mar 10, 2026</b> - Attended
+            <a href="https://docs.isambard.ac.uk/events/isambard_summit_2026/">Isambard Summit</a> and gave a talk about
+            <a href="https://nomaddrive.github.io/">NOMAD</a>.
+          </li>
+          <li>
+            <b>Mar 10, 2026</b> - Gave a talk at <a href="https://motional.com/">Motional</a> about
+            <a href="https://nomaddrive.github.io/">NOMAD</a>.
+          </li>
+          <li>
+            <b>Feb 06, 2026</b> - Gave a talk at <a href="https://emerge-lab.github.io/">EMERGE lab</a> about
+            <a href="https://nomaddrive.github.io/">NOMAD</a>.
+          </li>
+          <li>
+            <b>Nov 27, 2025</b> - We release the code of
+            <a href="https://github.com/AlexGoldie/discobench">DiscoBench: An Open-Ended Benchmark For Algorithm Discovery</a>,
+            check it!
+          </li>
+          <li>
+            <b>Aug 07, 2025</b> - Our paper
+            <a href="https://arxiv.org/abs/2507.17668">How Should We Meta-Learn Reinforcement Learning Algorithms?</a> was
+            awarded <b>Outstanding Paper</b> for Scientific Understanding In Reinforcement Learning at
+            <a href="https://rl-conference.cc/2025/index.html">RLC 2025</a>. Big congrats to all the authors!
+          </li>
+          <li>
+            <b>May 09, 2025</b> - Our work
+            <a href="https://arxiv.org/abs/2507.17668">How Should We Meta-Learn Reinforcement Learning Algorithms?</a> is
+            accepted by <a href="https://rl-conference.cc/2025/index.html">RLC 2025</a>.
+          </li>
+          <li>
+            <b>May 01, 2025</b> - Our paper
+            <a href="https://openreview.net/forum?id=mIomqOskaa">Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning</a>
+            is accepted for an <b>oral</b> presentation (Top ~1%) at <a href="https://icml.cc/Conferences/2025">ICML 2025</a>.
+          </li>
+          <li><b>Oct 05, 2024</b> - Started my DPhil at <a href="https://www.ox.ac.uk/">Oxford</a>!</li>
+        </ul>
+      </section>
+
+      <!-- Papers: copy one <article class="paper"> block to add a paper -->
+      <section id="papers">
+        <h2>Papers</h2>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/nomad-preview.png" alt="Overview figure of NOMAD" loading="lazy">
+            <span class="venue">NeurIPS 2026</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://arxiv.org/abs/2602.15891">Learning to Drive in New Cities Without Human Demonstrations</a>
+            </p>
+            <p class="paper-authors">
+              <b>Zilin Wang</b>, Saeed Rahmani, Daphne Cornelisse, Bidipta Sarkar, Alexander D. Goldie, Jakob N. Foerster,
+              Shimon Whiteson
+            </p>
+            <p class="paper-tldr">
+              We show that self-play multi-agent reinforcement learning can adapt a driving policy to a substantially
+              different target city using only the map and meta-information,
+              <b><i>without requiring any human demonstrations from that city</i></b
+              >.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/offline-priors-preview.png" alt="Figure of online reinforcement learning with offline priors" loading="lazy">
+            <span class="venue">NeurIPS 2026 Position</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://arxiv.org/abs/2606.25527">Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors</a>
+            </p>
+            <p class="paper-authors">Guozheng Ma, Lu Li, <b>Zilin Wang</b>, Pierre-Luc Bacon, Dacheng Tao</p>
+            <p class="paper-venue">NeurIPS 2026 Position Paper Track</p>
+            <p class="paper-tldr">
+              Offline priors help online RL but introduce bounded knowledge whose validity varies across deployments. We
+              argue the field should shift from seeking universal methods to diagnosis-driven tension management.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/discogen-preview.png" alt="Overview figure of the DiscoBench system" loading="lazy">
+            <span class="venue">ICML 2026</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://alexgoldie.github.io/discobench-blog/">Procedural Generation Of Algorithm Discovery Tasks in Machine Learning</a>
+            </p>
+            <p class="paper-authors">
+              Alexander D. Goldie, <b>Zilin Wang</b>, Adrian Hayler, Deepak Nathani, Edan Toledo, Ken Thampiratwong,
+              Aleksandra Kalisz, Michael Beukman, Alistair Letcher, Shashank Reddy, Clarisse Wibault, Theo Wolf, Charles
+              O’Neill, Shimon Whiteson, Jakob N. Foerster, Roberta Raileanu
+            </p>
+            <p class="paper-tldr">
+              We introduce DiscoGen, a procedural generator of algorithm discovery tasks from different fields in machine
+              learning, which can be used for optimisation of algorithm discovery agents.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/metalearn-rl-preview.png" alt="Figure of meta-learned components in the RL training loop" loading="lazy">
+            <span class="venue">RLC 2025</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_218.pdf">How Should We Meta-Learn Reinforcement Learning Algorithms?</a>
+            </p>
+            <p class="paper-authors">
+              Alexander D. Goldie, <b>Zilin Wang</b>, Jaron Cohen, Jakob N. Foerster, Shimon Whiteson
+            </p>
+            <p class="paper-venue">RLC 2025 <b>Outstanding Paper</b> for Scientific Understanding In Reinforcement Learning</p>
+            <p class="paper-tldr">
+              We empirically compares various meta-learning algorithms applied to reinforcement learning components,
+              providing comprehensive guidelines on their trade-offs in performance, computational cost, and
+              interpretability.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/sparsity-preview.png" alt="Scaling trends of sparse and dense networks" loading="lazy">
+            <span class="venue">ICML 2025</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://openreview.net/forum?id=mIomqOskaa">Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning</a>
+            </p>
+            <p class="paper-authors">Guozheng Ma, Lu Li, <b>Zilin Wang</b>, Li Shen, Pierre-Luc Bacon, Dacheng Tao</p>
+            <p class="paper-venue">ICML 2025 <b>Oral presentation</b> (Top ~1%)</p>
+            <p class="paper-tldr">
+              Integrating network sparsity into the most advanced architectures can further unlock the scaling potential of
+              DRL models and meanwhile effectively mitigating optimization pathologies during scaling.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/e3d2-preview.gif" alt="Animation of generated 3D dance" loading="lazy">
+            <span class="venue">AAAI 2024</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://arxiv.org/pdf/2312.11442">Explore 3D Dance Generation via Reward Model from Automatically-Ranked Demonstrations</a>
+            </p>
+            <p class="paper-authors">
+              <b>Zilin Wang</b>, Haolin Zhuang, Lu Li, Yinmin Zhang, Junjie Zhong, Jun Chen, Yu Yang, Boshi Tang, Zhiyong Wu
+            </p>
+            <p class="paper-tldr">
+              We presents an Exploratory 3D Dance generation framework, E3D2, designed to address the exploration capability
+              deficiency in existing music-conditioned 3D dance generation models.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/unifiedgesture-preview.gif" alt="Animation of generated gestures" loading="lazy">
+            <span class="venue">ACM MM 2023</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://arxiv.org/abs/2309.07051">UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons</a>
+            </p>
+            <p class="paper-authors">
+              Sicheng Yang*, <b>Zilin Wang*</b> (equal contribution), Zhiyong Wu, Minglei Li, Zhensong Zhang, Huang Qiaochu,
+              Lei Hao, Songcen Xu, Xiaofei Wu, Changpeng Yang, Zonghong Dai
+            </p>
+            <p class="paper-venue">ACM Multimedia 2023 <b>Oral</b> presentation</p>
+            <p class="paper-tldr">
+              In this paper, we present UnifiedGesture, a novel diffusion model-based speech-driven gesture synthesis
+              approach, trained on multiple gesture datasets with different skeletons.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/synthcoder-preview.png" alt="Figure of the synthetic corpus generation method" loading="lazy">
+            <span class="venue">ICASSP 2023</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://ieeexplore.ieee.org/document/10094786">A Synthetic Corpus Generation Method for Neural Vocoder Training</a>
+            </p>
+            <p class="paper-authors">
+              <b>Zilin Wang</b>, Peng Liu, Jun Chen, Sipan Li, Jinfeng Bai, Gang He, Zhiyong Wu, Helen Meng
+            </p>
+            <p class="paper-tldr">
+              In this paper, we propose a synthetic corpus generation method for neural vocoder training, which can easily
+              generate synthetic audio with an unlimited number at nearly no cost.
+            </p>
+          </div>
+        </article>
+
+        <article class="paper">
+          <div class="paper-figure">
+            <img src="/assets/img/publication_preview/fullsubnetplus-preview.png" alt="Architecture figure of FullSubNet+" loading="lazy">
+            <span class="venue">ICASSP 2022</span>
+          </div>
+          <div class="paper-info">
+            <p class="paper-title">
+              <a href="https://arxiv.org/abs/2203.12188">FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement</a>
+            </p>
+            <p class="paper-authors">Jun Chen, <b>Zilin Wang</b>, Deyi Tuo, Zhiyong Wu, Shiyin Kang, Helen Meng</p>
+            <p class="paper-tldr">
+              We propose an extended single-channel real-time speech enhancement framework called FullSubNet+, achieving SOTA
+              performance in DNS Challenge dataset.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
